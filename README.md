@@ -12,8 +12,7 @@ A face detection attendance system build with pyhon programming language and Fac
 - face recognition algorithm (reconize/detect  faces and extract facial features )
 - Attendance management by manage records for each person (time and date)
   
-Build project:
-
+Build project: 
 Smart_Attendance_management_system/
 │
 ├── dataset/ #folder to store captured images for each user
@@ -41,8 +40,8 @@ Order of commands:
 step1:  dataset_creation.py (Capture images+user id or name for folder creation)
 step2:  image_processing.py (optional process images)
 step3:  face_embeddings.py (Generate face embeddings)
-step4: attendance_system.py (Run attendamce system)
-step5:   export_to_excel.py (Expor attendance to excel)
+step4: attendance_system.py (Run attendance system)
+step5:   export_to_excel.py (Expot attendance details  to excel)
 
 
 
